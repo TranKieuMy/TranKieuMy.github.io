@@ -1,6 +1,12 @@
 <html>
 	<body>
-		demo conflict  123456
+<<<<<<< HEAD
+		demo conflict  1
 		WARNING !!!
 	</body>
 </html>
+=======
+		demo complict 1
+	</body>
+</html> 
+>>>>>>> feature/quytrinhtuan1
